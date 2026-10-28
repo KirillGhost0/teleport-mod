@@ -1,0 +1,1 @@
+[{"modid":"coordinateportal","name":"Coordinate Portal","description":"GUI teleportation: coordinates, players, spawn and a saved waypoint. Open with Tab+Q.","version":"${version}","mcversion":"${mcversion}","authorList":["CoordinatePortal"],"dependencies":[]}]
